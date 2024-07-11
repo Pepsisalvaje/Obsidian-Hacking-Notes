@@ -1,1 +1,7 @@
-{}
+{
+  "promptDelete": false,
+  "attachmentFolderPath": "Images",
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "showUnsupportedFiles": false
+}

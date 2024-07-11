@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "34d9da31a6e0e9bc",
+    "id": "630522869090653e",
     "type": "split",
     "children": [
       {
-        "id": "a8a7e07e32017b9c",
+        "id": "7569a8d5de824002",
         "type": "tabs",
         "children": [
           {
-            "id": "d10ec86dc656c6f2",
+            "id": "8474af71ef5528df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Máquinas realizadas/Amor.md",
+                "file": "Reconocimiento/ARPScan.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "9252ec6d57f30aa2",
+    "id": "b48963c0572b67ce",
     "type": "split",
     "children": [
       {
-        "id": "ea9f5068d314a389",
+        "id": "032ae6ad2a3b960e",
         "type": "tabs",
         "children": [
           {
-            "id": "b8d863117367a8da",
+            "id": "2ccc35325b462a8d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "aec6ca50efc3d39e",
+            "id": "9c6771d80741b9c5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,10 +58,18 @@
             }
           },
           {
-            "id": "da5c0c9b46bcf7ad",
+            "id": "e4c0d38d2353675e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f91c03b7b7310f1",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
               "state": {}
             }
           }
@@ -69,23 +77,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 492.5
   },
   "right": {
-    "id": "10c76feef0198b9a",
+    "id": "2901b1df4b4e475e",
     "type": "split",
     "children": [
       {
-        "id": "ddd4a22412cfdf42",
+        "id": "75301d81da43cbea",
         "type": "tabs",
         "children": [
           {
-            "id": "798269f6066c0632",
+            "id": "cafdcabd69fb0771",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Máquinas realizadas/Amor.md",
+                "file": "Reconocimiento/ARPScan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +105,19 @@
             }
           },
           {
-            "id": "6910aaeeeb5332ca",
+            "id": "f4902f5fd9a1e99b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Máquinas realizadas/Amor.md",
+                "file": "Reconocimiento/ARPScan.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c012f333ddde152b",
+            "id": "dfc073f8b3926a87",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +128,12 @@
             }
           },
           {
-            "id": "d303fdbb7e996eb0",
+            "id": "84b9250d9c70ecc2",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Máquinas realizadas/Amor.md"
+                "file": "Reconocimiento/ARPScan.md"
               }
             }
           }
@@ -143,9 +151,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "d10ec86dc656c6f2",
-  "lastOpenFiles": []
+  "active": "8474af71ef5528df",
+  "lastOpenFiles": [
+    "obsidian/themes/vanilla-amoled-theme/versions.json",
+    "obsidian/themes/vanilla-amoled-theme/version-bump.mjs",
+    "obsidian/themes/vanilla-amoled-theme/theme.css",
+    "obsidian/themes/vanilla-amoled-theme/sample-screenshot.png",
+    "obsidian/themes/vanilla-amoled-theme/sample-screenshot-sm.png",
+    "obsidian/themes/vanilla-amoled-theme/package.json",
+    "obsidian/themes/vanilla-amoled-theme/manifest.json",
+    "obsidian/themes/vanilla-amoled-theme/README.md",
+    "obsidian/themes/vanilla-amoled-theme/LICENSE",
+    "obsidian/themes/Vanilla Palettes/theme.css",
+    "obsidian/themes/Vanilla Palettes/manifest.json",
+    "obsidian/themes/Vanilla AMOLED/theme.css",
+    "obsidian/themes/Vanilla AMOLED/manifest.json",
+    "obsidian/plugins/obsidian-kanban/styles.css",
+    "Máquinas realizadas/Whereismyshell.md",
+    "Reconocimiento/MassScan.md",
+    "Reconocimiento/ARPScan.md",
+    "Reconocimiento/NMAP.md",
+    "Conceptos básicos/UDP.md",
+    "Conceptos básicos/TCP.md",
+    "Conceptos básicos/Subnetting.md",
+    "Conceptos básicos/Pasted image 20240209150653.png",
+    "Enumeración/FTP.md",
+    "Enumeración/HTTP.md",
+    "OS/Linux.md",
+    "Privilege Escalation/Shell Interactiva.md",
+    "Privilege Escalation/Escalamiento Windows.md",
+    "Privilege Escalation/Escalamiento Linux.md",
+    "Pivoting/Port Forwarding.md",
+    "Pivoting/Pivoting.md",
+    "Máquinas realizadas/Amor.md",
+    "Images/Pasted image 20240710175254.png",
+    "Images/Pasted image 20240710175121.png",
+    "Images/Pasted image 20240710174815.png",
+    "Images/Pasted image 20240710174659.png",
+    "Images/Pasted image 20240710174327.png",
+    "Images/Pasted image 20240710172814.png",
+    "Images/Pasted image 20240710172418.png",
+    "Explotación/Vulnerabilities/WebShell.md",
+    "Explotación/Vulnerabilities/Local File Inclusion.md",
+    "Explotación/Shells/Reverse Shell.md",
+    "Explotación/Shells/Forward Shell.md",
+    "Explotación/Shells/Bind Shell.md",
+    "Explotación/Payloads/Payload.md",
+    "Explotación/Payloads/Payload Staged.md",
+    "Explotación/Payloads/Payload Non-staged.md"
+  ]
 }
