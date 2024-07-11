@@ -1,0 +1,3 @@
+Nikto es una herramienta de código abierto escrita en Perl que se utiliza para escanear servidores web en busca de vulnerabilidades conocidas. Realiza pruebas exhaustivas para identificar archivos o programas potencialmente peligrosos, versiones obsoletas de software de servidor y problemas de configuración del servidor. [Nikto también admite métodos anti-IDS de LibWhisker para evitar la detección y puede generar informes en texto plano o HTML](https://www.kali.org/tools/nikto/)
+
+Modo de uso: ```nikto -h http://url```

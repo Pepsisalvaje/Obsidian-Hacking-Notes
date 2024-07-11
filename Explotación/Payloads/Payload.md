@@ -1,0 +1,3 @@
+Un payload es un componente de un exploit o malware que realiza acciones maliciosas en un sistema comprometido. Puede aprovechar vulnerabilidades, ejecutar código malicioso, establecer persistencia, robar datos, descargar archivos adicionales, entre otras acciones. Los payloads pueden ser entregados a través de diversos vectores de ataque y se utilizan en ciberataques para lograr los objetivos del atacante.
+
+Los payloads pueden ser diseñados de diversas maneras y pueden ser entregados a través de diferentes vectores de ataque, como archivos maliciosos adjuntos en correos electrónicos, enlaces a sitios web comprometidos, exploits de vulnerabilidades en software, entre otros.

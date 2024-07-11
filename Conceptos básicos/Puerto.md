@@ -1,0 +1,6 @@
+
+En el contexto de las redes informáticas, un puerto es un punto final de comunicación lógica en un sistema operativo o dispositivo de red. Los puertos permiten que los programas y servicios en una computadora se comuniquen entre sí y con dispositivos externos a través de una red.
+
+Cada aplicación o servicio que se ejecuta en un dispositivo tiene asociado un número de puerto único. Estos números de puerto van desde 0 hasta 65535 y están estandarizados por la Internet Assigned Numbers Authority (IANA). Algunos puertos están reservados para servicios específicos comúnmente utilizados, como el puerto 80 para [[Hacking/Enumeración/HTTP]] (servicios web), el puerto 25 para [[SMTP]] (correo electrónico saliente) y el puerto 22 para [[SSH]] (acceso remoto seguro).
+
+Cuando un programa en una computadora desea comunicarse con otro programa en la misma computadora o en una computadora remota a través de una red, utiliza un número de puerto específico para enviar y recibir datos. La combinación de una dirección [[IP]] y un número de puerto se utiliza para dirigir el tráfico de red al programa o servicio correcto en el dispositivo destino.

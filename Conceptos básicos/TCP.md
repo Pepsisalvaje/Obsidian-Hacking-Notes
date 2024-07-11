@@ -1,0 +1,3 @@
+El Protocolo de Control de Transmisión (TCP) es uno de los protocolos fundamentales en Internet y se encarga de la transmisión confiable de datos entre dispositivos. Funciona estableciendo una conexión entre el dispositivo emisor y el receptor, dividiendo los datos en paquetes, enviándolos secuencialmente y verificando su llegada en el destino.
+
+Además, TCP controla el flujo de datos para evitar la congestión en la red, ajustando la velocidad de transmisión según las condiciones de la red. En resumen, TCP proporciona una comunicación confiable y ordenada entre dispositivos en una red.

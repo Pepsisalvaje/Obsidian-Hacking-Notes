@@ -1,0 +1,3 @@
+Un CMS (Content Management System) es un sistema de gestión de contenido que permite crear, editar, gestionar y publicar contenido digital de manera colaborativa y eficiente. Los CMS son herramientas de software que facilitan la creación y administración de sitios web, blogs, portales y otros tipos de aplicaciones web.
+
+Algunos ejemplos populares de CMS incluyen [[WordPress]], [[Joomla]], [[Drupal]] (para comercio electrónico) y Shopify (también para comercio electrónico). Estos sistemas son utilizados por personas y organizaciones de todo el mundo para crear una amplia variedad de sitios web y aplicaciones web de manera rápida y eficiente.

@@ -1,0 +1,3 @@
+cURL (client URL) es una herramienta y biblioteca de línea de comandos que soporta principalmente HTTP junto con muchos otros protocolos. Esto hace que sea un buen candidato para los scripts, así como la automatización, por lo que es esencial para el envío de diversos tipos de solicitudes web desde la línea de comandos, lo cual es necesario para muchos tipos de pruebas de penetración web. Se usa de la siguiente forma:
+
+```curl google.com```

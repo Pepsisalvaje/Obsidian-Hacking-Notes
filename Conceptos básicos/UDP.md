@@ -1,0 +1,3 @@
+El Protocolo de Datagrama de Usuario (UDP) es otro protocolo utilizado en redes de computadoras, pero a diferencia de [[TCP]], UDP es un protocolo de comunicación no orientado a la conexión y no garantiza la entrega de datos ni el orden en que llegan. UDP simplemente envía los paquetes de datos sin establecer una conexión previa ni esperar confirmación de su llegada. Esto hace que UDP sea más rápido y eficiente en términos de velocidad de transmisión y recursos de red, pero a costa de una menor fiabilidad.
+
+UDP es útil en aplicaciones donde la velocidad es prioritaria sobre la integridad de los datos, como transmisiones de video en tiempo real, videojuegos en línea y aplicaciones de voz sobre IP (VoIP).
