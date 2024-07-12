@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reconocimiento/ARPScan.md",
+                "file": "Máquinas realizadas/Amor.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reconocimiento/ARPScan.md",
+                "file": "Máquinas realizadas/Amor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Reconocimiento/ARPScan.md",
+                "file": "Máquinas realizadas/Amor.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Reconocimiento/ARPScan.md"
+                "file": "Máquinas realizadas/Amor.md"
               }
             }
           }
@@ -157,6 +157,9 @@
   },
   "active": "8474af71ef5528df",
   "lastOpenFiles": [
+    "Máquinas realizadas/Whereismyshell.md",
+    "Máquinas realizadas/Amor.md",
+    "Reconocimiento/ARPScan.md",
     "obsidian/themes/vanilla-amoled-theme/versions.json",
     "obsidian/themes/vanilla-amoled-theme/version-bump.mjs",
     "obsidian/themes/vanilla-amoled-theme/theme.css",
@@ -170,10 +173,7 @@
     "obsidian/themes/Vanilla Palettes/manifest.json",
     "obsidian/themes/Vanilla AMOLED/theme.css",
     "obsidian/themes/Vanilla AMOLED/manifest.json",
-    "obsidian/plugins/obsidian-kanban/styles.css",
-    "Máquinas realizadas/Whereismyshell.md",
     "Reconocimiento/MassScan.md",
-    "Reconocimiento/ARPScan.md",
     "Reconocimiento/NMAP.md",
     "Conceptos básicos/UDP.md",
     "Conceptos básicos/TCP.md",
@@ -187,7 +187,6 @@
     "Privilege Escalation/Escalamiento Linux.md",
     "Pivoting/Port Forwarding.md",
     "Pivoting/Pivoting.md",
-    "Máquinas realizadas/Amor.md",
     "Images/Pasted image 20240710175254.png",
     "Images/Pasted image 20240710175121.png",
     "Images/Pasted image 20240710174815.png",
