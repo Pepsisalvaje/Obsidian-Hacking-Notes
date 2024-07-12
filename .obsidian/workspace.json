@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7569a8d5de824002",
+        "id": "049c6ce7b7123ea3",
         "type": "tabs",
         "children": [
           {
-            "id": "8474af71ef5528df",
+            "id": "c5187fa20a732c2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Máquinas realizadas/Amor.md",
+                "file": "Máquinas realizadas/Darkhold.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Máquinas realizadas/Amor.md",
+                "file": "Máquinas realizadas/Darkhold.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Máquinas realizadas/Amor.md",
+                "file": "Máquinas realizadas/Darkhold.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Máquinas realizadas/Amor.md"
+                "file": "Máquinas realizadas/Darkhold.md"
               }
             }
           }
@@ -155,16 +155,29 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "8474af71ef5528df",
+  "active": "c5187fa20a732c2f",
   "lastOpenFiles": [
+    "Images/Pasted image 20240712123630.png",
     "Máquinas realizadas/Whereismyshell.md",
+    "Privilege Escalation/Escalamiento Windows.md",
+    "Privilege Escalation/Interactive Shell.md",
+    "Máquinas realizadas/Darkhold.md",
+    "Images/Pasted image 20240712123500.png",
+    "Images/Pasted image 20240712123244.png",
+    "Images/Pasted image 20240712122929.png",
+    "Images/Pasted image 20240712122654.png",
+    "Images/Pasted image 20240712122626.png",
+    "Images/Pasted image 20240712122510.png",
+    "Images/Pasted image 20240712121850.png",
+    "Images/Pasted image 20240712121720.png",
+    "Images/Pasted image 20240712121417.png",
+    "Privilege Escalation/Escalamiento Linux.md",
+    "Images/Pasted image 20240712120842.png",
     "Máquinas realizadas/Amor.md",
     "Reconocimiento/ARPScan.md",
     "obsidian/themes/vanilla-amoled-theme/versions.json",
     "obsidian/themes/vanilla-amoled-theme/version-bump.mjs",
     "obsidian/themes/vanilla-amoled-theme/theme.css",
-    "obsidian/themes/vanilla-amoled-theme/sample-screenshot.png",
-    "obsidian/themes/vanilla-amoled-theme/sample-screenshot-sm.png",
     "obsidian/themes/vanilla-amoled-theme/package.json",
     "obsidian/themes/vanilla-amoled-theme/manifest.json",
     "obsidian/themes/vanilla-amoled-theme/README.md",
@@ -178,29 +191,17 @@
     "Conceptos básicos/UDP.md",
     "Conceptos básicos/TCP.md",
     "Conceptos básicos/Subnetting.md",
-    "Conceptos básicos/Pasted image 20240209150653.png",
     "Enumeración/FTP.md",
     "Enumeración/HTTP.md",
     "OS/Linux.md",
-    "Privilege Escalation/Shell Interactiva.md",
-    "Privilege Escalation/Escalamiento Windows.md",
-    "Privilege Escalation/Escalamiento Linux.md",
     "Pivoting/Port Forwarding.md",
     "Pivoting/Pivoting.md",
-    "Images/Pasted image 20240710175254.png",
-    "Images/Pasted image 20240710175121.png",
-    "Images/Pasted image 20240710174815.png",
-    "Images/Pasted image 20240710174659.png",
-    "Images/Pasted image 20240710174327.png",
-    "Images/Pasted image 20240710172814.png",
-    "Images/Pasted image 20240710172418.png",
     "Explotación/Vulnerabilities/WebShell.md",
     "Explotación/Vulnerabilities/Local File Inclusion.md",
     "Explotación/Shells/Reverse Shell.md",
     "Explotación/Shells/Forward Shell.md",
     "Explotación/Shells/Bind Shell.md",
     "Explotación/Payloads/Payload.md",
-    "Explotación/Payloads/Payload Staged.md",
-    "Explotación/Payloads/Payload Non-staged.md"
+    "Explotación/Payloads/Payload Staged.md"
   ]
 }

