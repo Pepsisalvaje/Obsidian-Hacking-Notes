@@ -13,19 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Privilege Escalation/Escalamiento Linux.md",
+                "file": "Máquinas realizadas/Symfonos.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2bf64069ce2f94b2",
+            "id": "2c8ad402ccb54ecd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pivoting/Pivoting.md",
+                "file": "Explotación/Herramientas/ffuf.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d0d314f580a9baf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Explotación/Herramientas/crackmapexec.md",
                 "mode": "source",
                 "source": false
               }
@@ -76,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hydra",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pivoting/Pivoting.md",
+                "file": "Explotación/Herramientas/crackmapexec.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pivoting/Pivoting.md",
+                "file": "Explotación/Herramientas/crackmapexec.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pivoting/Pivoting.md"
+                "file": "Explotación/Herramientas/crackmapexec.md"
               }
             }
           }
@@ -212,34 +224,28 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "2bf64069ce2f94b2",
+  "active": "d0d314f580a9baf7",
   "lastOpenFiles": [
+    "Privilege Escalation/Interactive Shell.md",
+    "Privilege Escalation/Escalamiento Linux.md",
+    "Privilege Escalation/Escalamiento Windows.md",
+    "Explotación/Herramientas/sqlmap.md",
+    "Explotación/Herramientas/Nikto.md",
+    "Explotación/Herramientas/ffuf.md",
+    "Explotación/Herramientas/gobuster.md",
+    "Explotación/Herramientas/hydra.md",
+    "Explotación/Herramientas/wpscan.md",
+    "Explotación/Herramientas/Searchsploit.md",
+    "Explotación/Herramientas/crackmapexec.md",
     "Pivoting/Port Forwarding.md",
     "Pivoting/Pivoting.md",
-    "Explotación/Herramientas/crackmapexec.md",
-    "Enumeración/SMB.md",
-    "Explotación/Herramientas/ffuf.md",
-    "Explotación/Herramientas/hydra.md",
-    "Explotación/Payloads/Payload Non-staged.md",
-    "Explotación/Herramientas/metasploit.md",
-    "Enumeración/FTP.md",
-    "Privilege Escalation/Escalamiento Windows.md",
-    "Explotación/Herramientas/wpscan.md",
-    "Enumeración/MYSQL.md",
-    "Explotación/Herramientas/gobuster.md",
-    "Explotación/Vulnerabilities/Path hijacking.md",
-    "Explotación/Vulnerabilities/Local File Inclusion.md",
-    "Explotación/Herramientas/enum4linux.md",
-    "Images/Pasted image 20240718230729.png",
-    "Images/Pasted image 20240718230430.png",
-    "Privilege Escalation/Escalamiento Linux.md",
+    "Images/Pasted image 20240715195832.png",
     "Máquinas realizadas/Symfonos.md",
     "Images/Pasted image 20240714175241.png",
     "Images/Pasted image 20240714175221.png",
-    "Explotación/Herramientas/Searchsploit.md",
+    "Explotación/Vulnerabilities/Path hijacking.md",
     "Images/Pasted image 20240714174539.png",
     "Images/Pasted image 20240714174136.png",
-    "Privilege Escalation/Interactive Shell.md",
     "Máquinas realizadas/Whereismyshell.md",
     "Images/Pasted image 20240714173820.png",
     "Máquinas realizadas/Darkhold.md",
@@ -247,9 +253,15 @@
     "Explotación/Vulnerabilities/WebShell.md",
     "Enumeración/SMTP.md",
     "Images/Pasted image 20240714172638.png",
+    "Enumeración/FTP.md",
     "Images/Pasted image 20240714171502.png",
+    "Images/Pasted image 20240714171442.png",
     "Conceptos básicos/Conceptos básicos.md",
     "Enumeración/CMS/WordPress.md",
+    "Explotación/Vulnerabilities/Local File Inclusion.md",
+    "Explotación/Herramientas/Burpsuite.md",
+    "Enumeración/SMB.md",
+    "Máquinas realizadas/Amor.md",
     "obsidian/themes/vanilla-amoled-theme/versions.json",
     "obsidian/themes/vanilla-amoled-theme/version-bump.mjs",
     "obsidian/themes/vanilla-amoled-theme/theme.css",

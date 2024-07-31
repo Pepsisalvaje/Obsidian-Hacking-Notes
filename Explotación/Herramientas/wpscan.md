@@ -18,7 +18,7 @@ wpscan --url http://wordpress.com -U usuario1 -P pass.txt
 
 - - To check all plugins (this is necessary so yo can check all the information of the wordpress and find on your own if there's a specific vuln):
 ```
-wpscan --url https://wordpress.com -e vp
+wpscan --url https://wordpress.com -e ap
 ```
 
 - To check plugins vulnerabilities:
@@ -28,5 +28,5 @@ wpscan --url https://wordpress.com -e vp
 
 - To check themes vulnerabilities:
 ```
-wpscan --url https://wordpress.com -e vp
+wpscan --url https://wordpress.com -e tp
 ```
