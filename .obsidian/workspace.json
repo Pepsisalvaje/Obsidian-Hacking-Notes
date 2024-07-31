@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "2bf64069ce2f94b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pivoting/Pivoting.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "2937c0b9e87895b3",
             "type": "leaf",
             "state": {
@@ -63,7 +75,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +105,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "hydra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -137,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Privilege Escalation/Escalamiento Linux.md",
+                "file": "Pivoting/Pivoting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Privilege Escalation/Escalamiento Linux.md",
+                "file": "Pivoting/Pivoting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -177,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Privilege Escalation/Escalamiento Linux.md"
+                "file": "Pivoting/Pivoting.md"
               }
             }
           }
@@ -199,20 +212,30 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "c5187fa20a732c2f",
+  "active": "2bf64069ce2f94b2",
   "lastOpenFiles": [
+    "Pivoting/Port Forwarding.md",
+    "Pivoting/Pivoting.md",
+    "Explotación/Herramientas/crackmapexec.md",
+    "Enumeración/SMB.md",
+    "Explotación/Herramientas/ffuf.md",
+    "Explotación/Herramientas/hydra.md",
+    "Explotación/Payloads/Payload Non-staged.md",
+    "Explotación/Herramientas/metasploit.md",
+    "Enumeración/FTP.md",
+    "Privilege Escalation/Escalamiento Windows.md",
+    "Explotación/Herramientas/wpscan.md",
+    "Enumeración/MYSQL.md",
+    "Explotación/Herramientas/gobuster.md",
+    "Explotación/Vulnerabilities/Path hijacking.md",
+    "Explotación/Vulnerabilities/Local File Inclusion.md",
+    "Explotación/Herramientas/enum4linux.md",
     "Images/Pasted image 20240718230729.png",
     "Images/Pasted image 20240718230430.png",
-    "Explotación/Herramientas/hydra.md",
-    "Enumeración/SMB.md",
-    "Explotación/Herramientas/crackmapexec.md",
-    "Explotación/Herramientas/gobuster.md",
     "Privilege Escalation/Escalamiento Linux.md",
     "Máquinas realizadas/Symfonos.md",
     "Images/Pasted image 20240714175241.png",
     "Images/Pasted image 20240714175221.png",
-    "Privilege Escalation/Escalamiento Windows.md",
-    "Explotación/Vulnerabilities/Path hijacking.md",
     "Explotación/Herramientas/Searchsploit.md",
     "Images/Pasted image 20240714174539.png",
     "Images/Pasted image 20240714174136.png",
@@ -224,28 +247,18 @@
     "Explotación/Vulnerabilities/WebShell.md",
     "Enumeración/SMTP.md",
     "Images/Pasted image 20240714172638.png",
-    "Enumeración/FTP.md",
     "Images/Pasted image 20240714171502.png",
-    "Images/Pasted image 20240714171442.png",
     "Conceptos básicos/Conceptos básicos.md",
     "Enumeración/CMS/WordPress.md",
-    "Explotación/Vulnerabilities/Local File Inclusion.md",
-    "Explotación/Herramientas/Burpsuite.md",
-    "Explotación/Herramientas/wpscan.md",
-    "Máquinas realizadas/Amor.md",
-    "Explotación/Herramientas/enum4linux.md",
-    "Reconocimiento/ARPScan.md",
     "obsidian/themes/vanilla-amoled-theme/versions.json",
     "obsidian/themes/vanilla-amoled-theme/version-bump.mjs",
     "obsidian/themes/vanilla-amoled-theme/theme.css",
     "obsidian/themes/vanilla-amoled-theme/package.json",
     "obsidian/themes/vanilla-amoled-theme/manifest.json",
-    "obsidian/themes/vanilla-amoled-theme/README.md",
     "obsidian/themes/vanilla-amoled-theme/LICENSE",
     "obsidian/themes/Vanilla Palettes/theme.css",
     "obsidian/themes/Vanilla Palettes/manifest.json",
     "obsidian/themes/Vanilla AMOLED/theme.css",
-    "obsidian/themes/Vanilla AMOLED/manifest.json",
-    "Reconocimiento/MassScan.md"
+    "obsidian/themes/Vanilla AMOLED/manifest.json"
   ]
 }
