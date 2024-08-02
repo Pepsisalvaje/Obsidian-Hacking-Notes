@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Explotación/Herramientas/crackmapexec.md",
+                "file": "Explotación/Herramientas/gobuster.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Explotación/Herramientas/crackmapexec.md",
+                "file": "Explotación/Herramientas/gobuster.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Explotación/Herramientas/crackmapexec.md",
+                "file": "Explotación/Herramientas/gobuster.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Explotación/Herramientas/crackmapexec.md"
+                "file": "Explotación/Herramientas/gobuster.md"
               }
             }
           }
@@ -226,6 +226,10 @@
   },
   "active": "d0d314f580a9baf7",
   "lastOpenFiles": [
+    "Enumeración/SMB.md",
+    "Enumeración/SMTP.md",
+    "Enumeración/FTP.md",
+    "Explotación/Herramientas/crackmapexec.md",
     "Privilege Escalation/Interactive Shell.md",
     "Privilege Escalation/Escalamiento Linux.md",
     "Privilege Escalation/Escalamiento Windows.md",
@@ -236,7 +240,6 @@
     "Explotación/Herramientas/hydra.md",
     "Explotación/Herramientas/wpscan.md",
     "Explotación/Herramientas/Searchsploit.md",
-    "Explotación/Herramientas/crackmapexec.md",
     "Pivoting/Port Forwarding.md",
     "Pivoting/Pivoting.md",
     "Images/Pasted image 20240715195832.png",
@@ -251,16 +254,13 @@
     "Máquinas realizadas/Darkhold.md",
     "Images/Pasted image 20240714173447.png",
     "Explotación/Vulnerabilities/WebShell.md",
-    "Enumeración/SMTP.md",
     "Images/Pasted image 20240714172638.png",
-    "Enumeración/FTP.md",
     "Images/Pasted image 20240714171502.png",
     "Images/Pasted image 20240714171442.png",
     "Conceptos básicos/Conceptos básicos.md",
     "Enumeración/CMS/WordPress.md",
     "Explotación/Vulnerabilities/Local File Inclusion.md",
     "Explotación/Herramientas/Burpsuite.md",
-    "Enumeración/SMB.md",
     "Máquinas realizadas/Amor.md",
     "obsidian/themes/vanilla-amoled-theme/versions.json",
     "obsidian/themes/vanilla-amoled-theme/version-bump.mjs",
